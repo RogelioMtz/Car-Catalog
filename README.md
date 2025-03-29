@@ -37,8 +37,7 @@ html-go-microservice/
 
 3. **Open the HTML page:**
 
-   - Navigate to the `src` directory.
-   - Open `index.html` in your web browser.
+   - Open `localhost:8080` or `0.0.0.0:8080` in your web browser.
 
 ## Usage
 
